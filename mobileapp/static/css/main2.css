@@ -1,0 +1,188 @@
+*,
+*:before,
+*:after {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: inherit;
+}
+html,
+body {
+    max-height: 100vh;
+    min-height: 100vh;
+    background-color: #2f5a85;
+    background-image: url('background.jpg');
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    clor: #fff;
+    font-size: 20px;
+}
+.wrapper {
+    min-height: 100vh;
+    max-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+}
+.fullscreen {
+    min-height: 100vh;
+    max-height: 100vh;
+    display: flex;
+    padding: 0;
+}
+.fullscreenbody {
+
+    flex: 1 1 auto;
+    width: 100%;
+    max-width: 1170px;
+    margin: 0px auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.headermenu {
+    display: flex;
+    padding-top: 50px;
+
+
+}
+.backbutton {
+    margin-left: 50px;
+}
+.homebutton {
+    margin-left: auto;
+    margin-right: 50px;
+}
+.centerfoto {
+    max-width: 1170px;
+    min-height: 85vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.fullscreentitle {
+    margin: 0;
+}
+.fotoframe {
+    width: 90%;
+    height: 60%;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+}
+.fotoframe img {
+    width: 90%;
+    height: 90%;
+    object-fit: contain;
+    justify-content: center;
+    align-items: center;
+}
+.fotoframe h1 {
+   color: white;
+}
+.input__file {
+    display: none;
+}
+label {
+    color: white;
+    cursor: pointer;
+}
+.btn-success {
+    width: 300px;
+    height: 60px;
+    z-index: 3;
+    font-size: 40px;
+    letter-spacing: 8px;
+    margin-top: 100px;
+    border-radius: 7px;
+    border: 2px solid #fff;
+    background: none;
+    color: #fff;
+}
+.fotobutton {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    left: calc(62px + (185 - 62) * ((100% - 924px) / (1170 - 924)));
+    bottom: 30px;
+}
+.fotobuttonframe {
+    display: flex;
+}
+.yes {
+    margin-left: 200px;
+}
+@media (max-width: 450px) {
+
+
+}
+@media screen and (orientation:portrait) and (min-height: 1600px) {
+
+    .fotobutton {
+        bottom: 200px;
+    }
+    .fotobutton {
+    left: calc(212px + (335 - 212) * ((100% - 924px) / (1170 - 924)));
+    }
+    .btn-success {
+    width: 500px;
+    height: 90px;
+    z-index: 3;
+    font-size: 50px;
+    letter-spacing: 8px;
+    margin-top: 100px;
+    border-radius: 7px;
+    border: 2px solid #fff;
+    background: none;
+    color: #fff;
+    }
+    body{
+        font-size: 40px;
+    }
+    .fotobuttonframe {
+        display: block;
+    }
+    .yes {
+        margin-left: 0;
+    }
+
+}
+@media screen and (orientation:portrait) and (max-height: 1598px) {
+
+    .fotobutton {
+        bottom: 20px;
+    }
+    .fotobutton {
+    left: calc(212px + (335 - 212) * ((100% - 924px) / (1170 - 924)));
+    }
+    .btn-success {
+    width: 500px;
+    height: 90px;
+    z-index: 3;
+    font-size: 50px;
+    letter-spacing: 8px;
+    margin-top: 100px;
+    border-radius: 7px;
+    border: 2px solid #fff;
+    background: none;
+    color: #fff;
+    }
+    body{
+        font-size: 30px;
+    }
+    .fotobuttonframe {
+        display: block;
+    }
+    .yes {
+        margin-left: 0;
+    }
+
+}
+
+
+

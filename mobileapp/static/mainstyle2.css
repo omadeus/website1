@@ -1,0 +1,414 @@
+.wrapper {
+    max-width: 900px;
+    font-family: "Arial";
+    padding-top: 5%;
+}
+
+.toolbar{
+    width: 100%;
+    background-color: #5598c752;
+    overflow: auto;
+    max-height: 52px;
+}
+
+.toolbar a {
+    float: left;
+    height: 5%;
+    text-align: center;
+    padding: 6px 5px;
+    margin-left: 40px;
+    transition: all 0.5s ease;
+    color: white;
+
+}
+
+input[type] {
+    height: 30px;
+    width: 500px;
+    font-size: 13px;
+}
+
+/* Change color on hover */
+.toolbar a:hover {
+    background-color: #0f3255;
+  }
+
+/* Change color on selected icon */
+.selected {
+    background-color: #0f3255;
+}
+
+#my-canvas{
+    width: 100%;
+    border: 3px solid #ffffff;
+}
+
+#img-data-div{
+    width: 100%;
+    max-width: 900px;
+    height: 200px;
+}
+
+
+#con {
+    padding-top: 10%;
+}
+
+/* Resize image to container */
+.toolbar a img{
+    max-width:100%;
+    height:auto;
+    max-height: 40px;
+}
+.img, svg{
+    max-height: 40px;
+}
+
+.forms {
+    width: 300px;
+    padding-top: 10%;
+    padding-left: 15px;
+}
+#file-input {
+    display: none;
+}
+#submit{
+    display: none;
+}
+
+#red_inputs {
+    padding-top: 15px;
+
+}
+#orange_inputs {
+    padding-top: 15px;
+    display: none;
+}
+#yellow_inputs {
+    padding-top: 15px;
+    display: none;
+}
+#green_inputs {
+    padding-top: 15px;
+    display: none;
+}
+#blue_inputs {
+    padding-top: 15px;
+    display: none;
+}
+#indigo_inputs {
+    padding-top: 15px;
+    display: none;
+}
+#violet_inputs {
+    padding-top: 15px;
+    display: none;
+}
+
+input[type="red"] {
+    border-color: #ff0000;
+}
+input[type="orange"] {
+    border-color: #ffa500;
+}
+input[type="yellow"] {
+    border-color: #ffff00;
+}
+input[type="green"] {
+    border-color: #008000;
+}
+input[type="blue"] {
+    border-color: #0000ff;
+}
+input[type="indigo"] {
+    border-color: #00008b;
+}
+input[type="violet"] {
+    border-color: #8a2be2;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+input#mother_1.form-control {
+    font-size: 15px;
+    height: 25px;
+
+}
+input#mother_2.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#mother_3.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+.logo {
+    margin-left: -150px;
+    margin-right: 500px;
+}
+input#mother_4.form-control {
+    font-size: 15px;
+    height: 25px;
+    height: 25px;
+
+}
+input#mother_5.form-control {
+    font-size: 15px;
+    height: 25px;
+
+}
+
+input#mother_6.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+
+input#red_1.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#red_2.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#red_3.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#red_4.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#red_5.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#red_6.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#red_7.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#red_8.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+
+
+input#orange_1.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#orange_2.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#orange_3.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#orange_4.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#orange_5.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#orange_6.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#orange_7.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#orange_8.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+
+
+input#yellow_1.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#yellow_2.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#yellow_3.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#yellow_4.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#yellow_5.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#yellow_6.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#yellow_7.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#yellow_8.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+
+
+input#green_1.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#green_2.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#green_3.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#green_4.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#green_5.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#green_6.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#green_7.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#green_8.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+
+
+input#blue_1.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#blue_2.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#blue_3.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#blue_4.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#blue_5.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#blue_6.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#blue_7.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#blue_8.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+
+
+
+input#indigo_1.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#indigo_2.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#indigo_3.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#indigo_4.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#indigo_5.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#indigo_6.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#indigo_7.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#indigo_8.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+
+
+input#violet_1.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#violet_2.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#violet_3.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#violet_4.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#violet_5.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#violet_6.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#violet_7.form-control {
+    font-size: 15px;
+    height: 25px;
+}
+input#violet_8.form-control {
+    font-size: 15px;
+    height: 25px;
+}
