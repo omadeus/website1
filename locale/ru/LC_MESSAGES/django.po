@@ -1,0 +1,175 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-28 11:58+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
+"%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: .\appsite\settings.py:120
+msgid "Русский"
+msgstr ""
+
+#: .\appsite\settings.py:121
+msgid "Аглийский"
+msgstr ""
+
+#: .\mobileapp\forms.py:12 .\mobileapp\forms.py:17
+msgid "Имя пользователя"
+msgstr ""
+
+#: .\mobileapp\forms.py:13 .\mobileapp\forms.py:18
+msgid "Пароль"
+msgstr ""
+
+#: .\mobileapp\forms.py:19
+msgid "Подтверждение пароля"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\login.html:73
+#: .\mobileapp\templates\mobileapp\register.html:73
+#: .\mobileapp\templates\mobileapp\web.html:75
+msgid "Выход"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\login.html:75
+#: .\mobileapp\templates\mobileapp\register.html:75
+#: .\mobileapp\templates\mobileapp\web.html:77
+msgid "Войти"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\login.html:76
+#: .\mobileapp\templates\mobileapp\register.html:76
+#: .\mobileapp\templates\mobileapp\web.html:78
+msgid "Регистрация"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\web.html:134
+msgid "Наименование платы"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\web.html:138
+msgid "Марка платы"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\web.html:142
+msgid "Тип платы"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\web.html:146
+msgid "Производитель платы"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\web.html:150
+msgid "Документация платы"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\web.html:154
+msgid "Состояние платы"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\web.html:160
+#: .\mobileapp\templates\mobileapp\web.html:197
+#: .\mobileapp\templates\mobileapp\web.html:233
+#: .\mobileapp\templates\mobileapp\web.html:269
+#: .\mobileapp\templates\mobileapp\web.html:305
+#: .\mobileapp\templates\mobileapp\web.html:341
+#: .\mobileapp\templates\mobileapp\web.html:377
+msgid "Тип элемента"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\web.html:164
+#: .\mobileapp\templates\mobileapp\web.html:201
+#: .\mobileapp\templates\mobileapp\web.html:237
+#: .\mobileapp\templates\mobileapp\web.html:273
+#: .\mobileapp\templates\mobileapp\web.html:309
+#: .\mobileapp\templates\mobileapp\web.html:345
+#: .\mobileapp\templates\mobileapp\web.html:381
+msgid "Марка элемента"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\web.html:168
+#: .\mobileapp\templates\mobileapp\web.html:205
+#: .\mobileapp\templates\mobileapp\web.html:241
+#: .\mobileapp\templates\mobileapp\web.html:277
+#: .\mobileapp\templates\mobileapp\web.html:313
+#: .\mobileapp\templates\mobileapp\web.html:349
+#: .\mobileapp\templates\mobileapp\web.html:385
+msgid "Обозначение элемента"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\web.html:172
+#: .\mobileapp\templates\mobileapp\web.html:209
+#: .\mobileapp\templates\mobileapp\web.html:245
+#: .\mobileapp\templates\mobileapp\web.html:281
+#: .\mobileapp\templates\mobileapp\web.html:317
+#: .\mobileapp\templates\mobileapp\web.html:353
+#: .\mobileapp\templates\mobileapp\web.html:389
+msgid "Номинал элемента"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\web.html:176
+#: .\mobileapp\templates\mobileapp\web.html:213
+#: .\mobileapp\templates\mobileapp\web.html:249
+#: .\mobileapp\templates\mobileapp\web.html:285
+#: .\mobileapp\templates\mobileapp\web.html:321
+#: .\mobileapp\templates\mobileapp\web.html:357
+#: .\mobileapp\templates\mobileapp\web.html:393
+msgid "Работоспособность элемента"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\web.html:180
+#: .\mobileapp\templates\mobileapp\web.html:217
+#: .\mobileapp\templates\mobileapp\web.html:253
+#: .\mobileapp\templates\mobileapp\web.html:289
+#: .\mobileapp\templates\mobileapp\web.html:325
+#: .\mobileapp\templates\mobileapp\web.html:361
+#: .\mobileapp\templates\mobileapp\web.html:397
+msgid "Производитель элемента"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\web.html:184
+#: .\mobileapp\templates\mobileapp\web.html:221
+#: .\mobileapp\templates\mobileapp\web.html:257
+#: .\mobileapp\templates\mobileapp\web.html:293
+#: .\mobileapp\templates\mobileapp\web.html:329
+#: .\mobileapp\templates\mobileapp\web.html:365
+#: .\mobileapp\templates\mobileapp\web.html:401
+msgid "Документация элемента"
+msgstr ""
+
+#: .\mobileapp\templates\mobileapp\web.html:188
+#: .\mobileapp\templates\mobileapp\web.html:225
+#: .\mobileapp\templates\mobileapp\web.html:261
+#: .\mobileapp\templates\mobileapp\web.html:297
+#: .\mobileapp\templates\mobileapp\web.html:333
+#: .\mobileapp\templates\mobileapp\web.html:369
+#: .\mobileapp\templates\mobileapp\web.html:405
+msgid "Состояние элемента"
+msgstr ""
+
+#: .\mobileapp\views.py:70
+msgid "Вы успешно зарегестрировались"
+msgstr ""
+
+#: .\mobileapp\views.py:74
+msgid "Ошибка регистрации"
+msgstr ""
+
+#: .\mobileapp\views.py:75
+msgid "Ошибка 7777регистрации"
+msgstr ""
