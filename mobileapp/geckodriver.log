@@ -1,0 +1,520 @@
+1608072954514	geckodriver	INFO	Listening on 127.0.0.1:38599
+1608072955522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF1rC26"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608072958883	Marionette	INFO	Listening on port 40621
+1608072958992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608072963750	Marionette	INFO	Stopped listening on port 40621
+1608075427050	geckodriver	INFO	Listening on 127.0.0.1:50593
+1608075427943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7BeYxx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608075431828	Marionette	INFO	Listening on port 34907
+1608075431936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608075449140	Marionette	INFO	Stopped listening on port 34907
+1608076082379	geckodriver	INFO	Listening on 127.0.0.1:33639
+1608076083386	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP7O1xg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608076086384	Marionette	INFO	Listening on port 34633
+1608076086442	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608076091972	Marionette	INFO	Stopped listening on port 34633
+1608076127147	geckodriver	INFO	Listening on 127.0.0.1:49707
+1608076127151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileILUSOj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608076130120	Marionette	INFO	Listening on port 37875
+1608076130189	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608076138598	Marionette	INFO	Stopped listening on port 37875
+1608076419143	geckodriver	INFO	Listening on 127.0.0.1:39565
+1608076419771	geckodriver	INFO	Listening on 127.0.0.1:50407
+1608076419775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeNkdWp"
+1608076420147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCJICC6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608076423400	Marionette	INFO	Listening on port 35613
+1608076423544	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608076423980	Marionette	INFO	Listening on port 41045
+1608076424158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608076448700	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608076449823	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608076450339	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608076451727	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: https://static.egcdn.com/mobile-video/video_desktop_v9.js?, line 34: EvoError: WebSocket connection closed(1001): 
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+1608112176508	Marionette	INFO	Stopped listening on port 41045
+1608112216876	geckodriver	INFO	Listening on 127.0.0.1:36619
+1608112217882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFyHzlm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608112221353	Marionette	INFO	Listening on port 42315
+1608112221447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: out of memory
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"XPIProvider shutdown","state":"(none)","filename":"<internal error: could not get origin>","lineNumber":-1,"stack":"<internal error: could not get origin>"},{"name":"SessionStore: flushing all windows","state":{"total":0,"current":0},"filename":"<internal error: could not get origin>","lineNumber":-1,"stack":"<internal error: could not get origin>"}] Barrier: quit-application-granted
+1608112246576	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1608112247723	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:330:69
+GeckoDriver.prototype.deleteSession@chrome://marionette/content/driver.js:3034:17
+onClosed@chrome://marionette/content/server.js:196:17
+close@chrome://marionette/content/transport.js:225:18
+onInputStreamReady@chrome://marionette/content/transport.js:379:14
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608112263427	Marionette	INFO	Stopped listening on port 42315
+FATAL ERROR: AsyncShutdown timeout in quit-application-granted Conditions: [{"name":"XPIProvider shutdown","state":"(none)","filename":"resource://gre/modules/addons/XPIProvider.jsm","lineNumber":2556,"stack":["resource://gre/modules/addons/XPIProvider.jsm:startup:2556","resource://gre/modules/AddonManager.jsm:callProvider:230","resource://gre/modules/AddonManager.jsm:_startProvider:601","resource://gre/modules/AddonManager.jsm:startup:825","resource://gre/modules/AddonManager.jsm:startup:3530","resource://gre/modules/addonManager.js:observe:87"]},{"name":"SessionStore: flushing all windows","state":{"total":0,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2282,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2282","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:948"]}] At least one completion condition failed to complete within a reasonable amount of time. Causing a crash to ensure that we do not leave the user with an unresponsive process draining resources.
+[Parent 6546, Main Thread] ###!!! ABORT: file resource://gre/modules/addons/XPIProvider.jsm:2556
+[Parent 6546, Main Thread] ###!!! ABORT: file resource://gre/modules/addons/XPIProvider.jsm:2556
+ExceptionHandler::GenerateDump cloned child 29659
+ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+Exiting due to channel error.
+1608212922377	geckodriver	INFO	Listening on 127.0.0.1:43139
+1608212923383	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezUS6Jq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608212927085	Marionette	INFO	Listening on port 40837
+1608212927159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608212933306	Marionette	INFO	Stopped listening on port 40837
