@@ -1,0 +1,50 @@
+{% load static %}
+
+
+{% block head %}
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{% static 'css/main.css'  %}">
+    <script src="{% static 'css/loading.js'  %}"></script>
+    <title>КОНСОЛЬ УПРАВЛЕНИЯ</title>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+    <meta name="=viewport" content="width=device-width">
+{% endblock %}
+
+{% block body %}
+   <section class="fullscreen">
+        <form  class="fullscreenbody" method="post" enctype="multipart/form-data">
+            <div class="headermenu">
+                    <ul class="backbutton" style="padding: 0">
+                        <a href="#"><img src="{% static '555.png'  %}" /></a>
+                    </ul>
+                    <ul class="homebutton" style="padding: 0">
+                        <a href="#"><img src="{% static 'home.png'  %}" /></a>
+                    </ul>
+            </div>
+            <p id="analiz_show" class="analiz">Идет анализ изображения</p>
+            <figure id="show">
+              <div></div><div></div>
+              <div></div><div></div>
+              <div></div><div></div>
+              <div></div><div></div>
+            </figure>
+            <div id="hide" class="centerfoto">
+                <div class="fotoframe">
+                    <h1 class="fullscreentitle">Здравствуйте!</h1>
+                    <h1 class="fullscreentitle">для начала диагностики нажмите на значок фото.</h1>
+                    <input  type="file" name="file" id="input__file" class="input input__file" multiple>
+                    <label for="input__file" class="input__file-button">
+                    <span class="input__file-icon-wrapper"><img class="input__file-icon" src="{% static 'foto.png'  %}" alt="Выбрать файл"></span>
+                </div>
+            </div>
+            <div id="hide2" class="fotobutton">
+                <div class="fotobuttonframe">
+                    <form method="post" enctype="multipart/form-data">
+                        {% csrf_token %}
+                        <input id="submit-btn" type="submit" name="start" class="btn btn-success" onclick="show_hide()" value=" НАЧАТЬ">
+                    </form>
+                </div>
+            </div>
+        </form>
+   </section>
+{% endblock %}
